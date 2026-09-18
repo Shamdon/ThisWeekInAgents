@@ -27,4 +27,16 @@ Do not add routine logs, generic advice, temporary status, unsupported guesses, 
 
 ## Recorded lessons
 
-No project-specific lessons have been recorded yet.
+### A source list can be consulted yet still produce an under-covered brief
+
+The 2026-09-18 edition formally used the standing Google Doc, but it contained only four bare links. Combined with repeated instructions to be concise and avoid padding, that encouraged an early stop after a small number of qualifying items. A later audit found several same-week papers and material incidents that had been available before publication.
+
+For future editions:
+
+- maintain a tiered registry with descriptions and source families rather than a short undifferentiated link list;
+- run two passes: inspect dated items from every Tier A family, then perform a broad independent discovery sweep;
+- do not count opening a landing page as checking a source;
+- use separate deep-read, radar, engineering, and news sections so evidence thresholds do not suppress breadth; and
+- publish a coverage note naming checked source families and explaining gaps.
+
+The correction was validated by expanding the registry from 4 to 50 live links, adding a reusable report template, and finding four omitted same-week papers plus two material agent news incidents.
