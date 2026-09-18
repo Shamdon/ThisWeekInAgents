@@ -14,7 +14,11 @@ A weekly, evidence-grounded brief on AI agent design, tacit knowledge capture an
 
 ## Editorial method
 
-Each edition covers the preceding seven days, prioritizes primary or peer-reviewed sources, distinguishes evidence classes, and records material limitations. The brief does not pad the shortlist with weak or recycled items.
+Each edition covers the preceding seven days and uses two research passes: a source-by-source scan of the standing registry, followed by an independent discovery sweep across papers, labs, frameworks, evaluations, security reports, and reputable news. Primary and peer-reviewed sources are preferred; evidence classes and limitations are explicit.
+
+The report separates high-confidence **deep reads** from a faster **research radar**, **engineering and field notes**, and **news and incidents**. A coverage note records what was checked and explains unusually thin weeks. Section ranges guide breadth but are never filled with weak or recycled material.
+
+See [`REPORT_TEMPLATE.md`](REPORT_TEMPLATE.md) for the reusable structure and publication checklist.
 
 ## Working in this repository
 
